@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: ".",
+    name: "pi.reidchatham.com",
     products: [
         .library(name: ".", targets: ["App"]),
     ],
@@ -19,4 +19,3 @@ let package = Package(
         .testTarget(name: "AppTests", dependencies: ["App"])
     ]
 )
-

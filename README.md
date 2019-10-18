@@ -27,6 +27,7 @@
 - _Using Docker Machine with the Raspberry pi_
 [Setting up Docker Machine on Raspberry PI](https://gist.github.com/calebbrewer/c41cab61216d8845b59fcc51f36343a7)
 
+---
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/1342803/36623515-7293b4ec-18d3-11e8-85ab-4e2f8fb38fbd.png" width="320" alt="API Template">

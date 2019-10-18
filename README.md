@@ -26,6 +26,13 @@
 
 - _Using Docker Machine with the Raspberry pi_
 [Setting up Docker Machine on Raspberry PI](https://gist.github.com/calebbrewer/c41cab61216d8845b59fcc51f36343a7)
+    * [DOCKER-MACHINE ON RASPBERRY PI](https://www.carothers.io/blog/docker-machine-on-raspberry-pi.html)
+    * [How to setup a Docker Swarm cluster with Raspberry Pi's](https://blog.hypriot.com/post/how-to-setup-rpi-docker-swarm/)
+
+- _Other Links_
+    * [Connect your Docker client to a remote Docker host](https://www.kevinkuszyk.com/2016/11/28/connect-your-docker-client-to-a-remote-docker-host/)
+    * [Controlling A Raspberry Pi From A Web Browser With Vapor 3](https://www.woolseyworkshop.com/2018/12/21/controlling-a-raspberry-pi-from-a-web-browser-with-vapor-3/)
+    
 
 ---
 

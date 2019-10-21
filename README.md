@@ -1,5 +1,7 @@
 # pi.reidchatham.com
 
+To run this on the raspberry pi first enable Swish, build the app to the pi with xcode, ssh into the pi from the terminal, then run `make run` to start the server.
+
 
 ## Pi
 - _Download Raspbian_

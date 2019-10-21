@@ -3,8 +3,11 @@ import Vapor
 /// Register your application's routes here.
 public func routes(_ router: Router) throws {
     // Basic "It works" example
-    router.get { req in
-        return "It works!"
+//    router.get { req in
+//        return "It works!"
+//    }
+    router.get { req -> Future<View> in  // home page
+       return try req.view().render("home")
     }
     
     // Basic "Hello, world!" example
@@ -17,4 +20,6 @@ public func routes(_ router: Router) throws {
 //    router.get("todos", use: todoController.index)
 //    router.post("todos", use: todoController.create)
 //    router.delete("todos", Todo.parameter, use: todoController.delete)
+    
+    print("Press CTRL-C to exit.")
 }

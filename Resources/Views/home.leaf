@@ -1,0 +1,7 @@
+#set("title") { Hello, from Raspberry Pi! }
+
+#set("body") {
+   Hello, from Raspberry Pi!
+}
+
+#embed("base")

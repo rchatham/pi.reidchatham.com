@@ -1,4 +1,4 @@
-#set("title") { Hello, from Raspberry Pi! }
+#set("title") { Pi }
 
 #set("body") {
    Hello, from Raspberry Pi!

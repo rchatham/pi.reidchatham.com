@@ -8,5 +8,7 @@ public func app(_ env: Environment) throws -> Application {
     try configure(&config, &env, &services)
     let app = try Application(config: config, environment: env, services: services)
     try boot(app)
+
+    print("Press CTRL-C to exit.")
     return app
 }

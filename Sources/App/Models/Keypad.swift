@@ -5,7 +5,7 @@
 //  Created by Reid Chatham on 10/21/19.
 //
 
-// import SwiftyGPIO
+import SwiftyGPIO
 import Foundation
 
 class Keypad {
@@ -25,4 +25,36 @@ class Keypad {
     }
 
     var buttonPressed: ((Button) -> Void)?
+    var receiverPositionChanged: ((Bool) -> Void)?
+
+    var currentReceiverPosition = false {
+        didSet {
+            receiverPositionChanged?(currentReceiverPosition)
+        }
+    }
+
+    init() {
+
+    //    let uarts = SwiftyGPIO.UARTs(for: .RaspberryPiPlusZero)
+        let uarts = SwiftyGPIO.UARTs(for: .RaspberryPi3)!
+        let uart = uarts[1]
+
+        Timer.scheduledTimer(withTimeInterval: 0.15, repeats: true) { [weak self] (timer) in
+
+            while (try? uart.hasAvailableData()) ?? false {
+                let nextLine = uart.readLine()
+                switch nextLine {
+                case "ACTIVE":
+                    self?.currentReceiverPosition = true
+                case "INACTIVE":
+                    self?.currentReceiverPosition = false
+                default:
+                    if let button = Button(rawValue: nextLine) {
+                        self?.buttonPressed?(button)
+                    }
+
+                }
+            }
+        }
+    }
 }

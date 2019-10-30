@@ -22,6 +22,9 @@ class KeypadController {
             print(button.rawValue)
             self.enteredValues.append(button.rawValue)
         }
+        keypad.receiverPositionChanged = { position in
+            print("Receiver engaged: \(!position)")
+        }
     }
 
 }

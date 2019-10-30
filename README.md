@@ -12,6 +12,7 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
 
 - _Configure SSH & Wifi_
 [Configuration - Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/configuration/), [Automatically connect a Raspberry Pi to a Wifi network](https://weworkweplay.com/play/automatically-connect-a-raspberry-pi-to-a-wifi-network/)
+   * I don't know why nobody says this but you can ssh into a raspberry pi on your wifi at `ssh pi@raspberrypi.local`
 
 - _Find Pi's IP address_
 [IP Address - Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/remote-access/ip-address.md)

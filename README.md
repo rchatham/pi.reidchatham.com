@@ -14,6 +14,21 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
 - _Configure SSH & Wifi_
 [Configuration - Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/configuration/), [Automatically connect a Raspberry Pi to a Wifi network](https://weworkweplay.com/play/automatically-connect-a-raspberry-pi-to-a-wifi-network/)
 
+`touch ssh`
+`touch wpa_supplicant.conf`
+`nano wpa_supplicant.conf`
+```
+country=US
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+update_config=1
+
+network={
+	ssid="network ssid"
+	psk="pass"
+	key_mgmt=WPA-PSK
+}
+```
+
 - _Find Pi's IP address_
 [IP Address - Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/remote-access/ip-address.md)
 

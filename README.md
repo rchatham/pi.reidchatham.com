@@ -14,19 +14,7 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
 - _Configure SSH & Wifi_
 [Configuration - Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/configuration/), [Automatically connect a Raspberry Pi to a Wifi network](https://weworkweplay.com/play/automatically-connect-a-raspberry-pi-to-a-wifi-network/)
 
-In the boot folder when the sd card in inserted into your computer.
-
-Create a blank file called `ssh`.
-
-`touch ssh`
-
-Create a file called `wpa_supplicant.conf`.
-
-`touch wpa_supplicant.conf`
-
-Enter your wifi settings.
-
-`nano wpa_supplicant.conf`
+  * In the boot folder when the sd card in inserted into your computer. Create a blank file called `ssh` with the command `touch ssh`. Create a file called `wpa_supplicant.conf` with `touch wpa_supplicant.conf`. Enter your wifi settings `nano wpa_supplicant.conf`:
 ```
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
 update_config=1

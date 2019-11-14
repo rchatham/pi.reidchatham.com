@@ -59,6 +59,10 @@ network={
     * [Onion Pi - Tor WiFi Access Point](https://learn.adafruit.com/onion-pi)
     	* [Onion Pi Setup Script](https://raw.githubusercontent.com/breadtk/onion_pi/master/setup.sh)
 
+- _Hats_
+    * [pHAT Stack Configurator](https://pinout.xyz/phatstack)
+
+
 ---
 
 <p align="center">

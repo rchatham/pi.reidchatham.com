@@ -58,6 +58,11 @@ network={
     * [Build your own NAS drive with Raspberry Pi](https://www.popsci.com/build-raspberry-pi-NAS-drive/)
     * [Onion Pi - Tor WiFi Access Point](https://learn.adafruit.com/onion-pi)
     	* [Onion Pi Setup Script](https://raw.githubusercontent.com/breadtk/onion_pi/master/setup.sh)
+    * [Setting up a Raspberry Pi as a WiFi access point](https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point/install-software)
+    * [Setting up a Raspberry Pi as a Wireless Access Point](https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md)
+    * [Raspberry Pi as an Ad Blocking Access Point](https://learn.adafruit.com/raspberry-pi-as-an-ad-blocking-access-point/overview)
+    * [Pi-hole](https://pi-hole.net)
+    
 
 - _Hats_
     * [pHAT Stack Configurator](https://pinout.xyz/phatstack)

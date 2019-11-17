@@ -33,6 +33,9 @@ network={
 - _SSH into pi_
 [SSH using Linux or Mac OS - Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md)
 
+- _Using a Console Cable_
+[Adafruit's Raspberry Pi Lesson 5. Using a Console Cable](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable/overview)
+
 - _Get Swift on pi_
 [Set up Swift environment on Raspberry Pi (part 2/2) – Sharing the passion](https://swiftreviewer.com/2018/12/21/swift-programming-on-raspberry-pi-part-2-3/)
 [How To Install Swift – Swift-Arm](https://swift-arm.com/install-swift/)

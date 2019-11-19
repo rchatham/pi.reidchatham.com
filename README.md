@@ -67,6 +67,11 @@ network={
     * [Raspberry Pi as an Ad Blocking Access Point](https://learn.adafruit.com/raspberry-pi-as-an-ad-blocking-access-point/overview)
     * [Pi-hole](https://pi-hole.net)
     * [Turning your Raspberry PI Zero into a USB Gadget](https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/overview)
+    * [Mopidy is an extensible music server written in Python.](https://mopidy.com)
+    	* [Mopidy-MusicBox-Webclient](https://github.com/pimusicbox/mopidy-musicbox-webclient)
+    * [Pi MusicBox](https://www.pimusicbox.com)
+    * [Create a Lightweight Raspberry Pi System with Raspbian Lite](https://thisdavej.com/create-a-lightweight-raspberry-pi-system-with-raspbian-lite/)
+    
     
 
 - _Hats_

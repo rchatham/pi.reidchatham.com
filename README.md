@@ -55,6 +55,7 @@ network={
     * [How to Clone Your Raspberry Pi SD Card for Super Easy Reinstallations](https://lifehacker.com/how-to-clone-your-raspberry-pi-sd-card-for-super-easy-r-1261113524)
     * [How to Make a Safe Shutdown Button for Raspberry Pi](https://core-electronics.com.au/tutorials/how-to-make-a-safe-shutdown-button-for-raspberry-pi.html)
     * [Read-Only Raspberry Pi](https://learn.adafruit.com/read-only-raspberry-pi)
+    * [How to use dual boot on Raspberry Pi? (2 easy ways)](https://raspberrytips.com/raspberry-pi-dual-boot/)
 
 - _Project Ideas_
     * [Turn your old speakers or Hi-Fi into Bluetooth receivers with a Raspberry Pi and this step-by-step guide](https://www.balena.io/blog/turn-your-old-speakers-or-hi-fi-into-bluetooth-receivers-using-only-a-raspberry-pi/?utm_source=efp&utm_medium=etcher&utm_campaign=balena-sound&utm_content=v4)
@@ -68,6 +69,7 @@ network={
     * [Pi-hole](https://pi-hole.net)
     	* [Pi Hole Ad Detection Display with PiTFT](https://learn.adafruit.com/pi-hole-ad-pitft-tft-detection-display)
     * [Turning your Raspberry PI Zero into a USB Gadget](https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/overview)
+    	* [RPi zero Support for USB Gadget Mode](https://github.com/raspberrypi/linux/issues/1212)
     * [Mopidy is an extensible music server written in Python.](https://mopidy.com)
     	* [Mopidy-MusicBox-Webclient](https://github.com/pimusicbox/mopidy-musicbox-webclient)
     * [Pi MusicBox](https://www.pimusicbox.com)

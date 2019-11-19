@@ -73,11 +73,10 @@ network={
     * [Pi MusicBox](https://www.pimusicbox.com)
     * [Create a Lightweight Raspberry Pi System with Raspbian Lite](https://thisdavej.com/create-a-lightweight-raspberry-pi-system-with-raspbian-lite/)
     * [Hey Siri, Open My Garage Door](https://pfandrade.me/blog/hey-siri-open-my-garage-door/)
-    
-    
 
 - _Hats_
     * [pHAT Stack Configurator](https://pinout.xyz/phatstack)
+    * [PiDRIVE Raspberry Pi HAT 1541 1581 Commodore 64 128 Vic-20 Emulator OLED Pi1541](https://commodore4ever.net/products/pidrive-raspberry-pi-hat-1541-1581-commodore-64-128-vic-20-emulator-oled-pi1541)
 
 
 ---

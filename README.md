@@ -66,11 +66,13 @@ network={
     * [Setting up a Raspberry Pi as a Wireless Access Point](https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md)
     * [Raspberry Pi as an Ad Blocking Access Point](https://learn.adafruit.com/raspberry-pi-as-an-ad-blocking-access-point/overview)
     * [Pi-hole](https://pi-hole.net)
+    	* [Pi Hole Ad Detection Display with PiTFT](https://learn.adafruit.com/pi-hole-ad-pitft-tft-detection-display)
     * [Turning your Raspberry PI Zero into a USB Gadget](https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/overview)
     * [Mopidy is an extensible music server written in Python.](https://mopidy.com)
     	* [Mopidy-MusicBox-Webclient](https://github.com/pimusicbox/mopidy-musicbox-webclient)
     * [Pi MusicBox](https://www.pimusicbox.com)
     * [Create a Lightweight Raspberry Pi System with Raspbian Lite](https://thisdavej.com/create-a-lightweight-raspberry-pi-system-with-raspbian-lite/)
+    * [Hey Siri, Open My Garage Door](https://pfandrade.me/blog/hey-siri-open-my-garage-door/)
     
     
 

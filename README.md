@@ -64,6 +64,7 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
     * [Pi MusicBox](https://www.pimusicbox.com)
     * [Create a Lightweight Raspberry Pi System with Raspbian Lite](https://thisdavej.com/create-a-lightweight-raspberry-pi-system-with-raspbian-lite/)
     * [Hey Siri, Open My Garage Door](https://pfandrade.me/blog/hey-siri-open-my-garage-door/)
+    * [Setting Up an Active DNS to Point to a Raspberry Pi 2 With a Web Server on It](https://www.instructables.com/id/Setting-Up-an-Active-DNS-to-Point-to-a-Raspberry-P/)
 
 - _Hats_
     * [pHAT Stack Configurator](https://pinout.xyz/phatstack)

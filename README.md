@@ -74,6 +74,13 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
 - _DNS-Routing_
     * [Raspberry Pi DNS Settings: How to Change the DNS](https://pimylifeup.com/raspberry-pi-dns-settings/)
 
+## Circuits
+- _Fritzing_
+    * [Fritzing](https://fritzing.org/home/)
+    
+- _Autodesk_
+    * [Zero to Breadboard Simulation](https://www.instructables.com/id/Zero-to-Breadboard-Simulation/)
+
 ---
 
 <p align="center">

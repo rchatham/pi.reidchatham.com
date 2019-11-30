@@ -51,25 +51,28 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
     * [Portable Raspberry Pi 4 computer | Hackspace magazine #24](https://www.raspberrypi.org/blog/)
     * [Build your own NAS drive with Raspberry Pi](https://www.popsci.com/build-raspberry-pi-NAS-drive/)
     * [Onion Pi - Tor WiFi Access Point](https://learn.adafruit.com/onion-pi)
-    	* [Onion Pi Setup Script](https://raw.githubusercontent.com/breadtk/onion_pi/master/setup.sh)
+    * [Onion Pi Setup Script](https://raw.githubusercontent.com/breadtk/onion_pi/master/setup.sh)
     * [Setting up a Raspberry Pi as a WiFi access point](https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point/install-software)
     * [Setting up a Raspberry Pi as a Wireless Access Point](https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md)
     * [Raspberry Pi as an Ad Blocking Access Point](https://learn.adafruit.com/raspberry-pi-as-an-ad-blocking-access-point/overview)
     * [Pi-hole](https://pi-hole.net)
-    	* [Pi Hole Ad Detection Display with PiTFT](https://learn.adafruit.com/pi-hole-ad-pitft-tft-detection-display)
+    * [Pi Hole Ad Detection Display with PiTFT](https://learn.adafruit.com/pi-hole-ad-pitft-tft-detection-display)
     * [Turning your Raspberry PI Zero into a USB Gadget](https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/overview)
-    	* [RPi zero Support for USB Gadget Mode](https://github.com/raspberrypi/linux/issues/1212)
+    * [RPi zero Support for USB Gadget Mode](https://github.com/raspberrypi/linux/issues/1212)
     * [Mopidy is an extensible music server written in Python.](https://mopidy.com)
-    	* [Mopidy-MusicBox-Webclient](https://github.com/pimusicbox/mopidy-musicbox-webclient)
+    * [Mopidy-MusicBox-Webclient](https://github.com/pimusicbox/mopidy-musicbox-webclient)
     * [Pi MusicBox](https://www.pimusicbox.com)
     * [Create a Lightweight Raspberry Pi System with Raspbian Lite](https://thisdavej.com/create-a-lightweight-raspberry-pi-system-with-raspbian-lite/)
     * [Hey Siri, Open My Garage Door](https://pfandrade.me/blog/hey-siri-open-my-garage-door/)
     * [Setting Up an Active DNS to Point to a Raspberry Pi 2 With a Web Server on It](https://www.instructables.com/id/Setting-Up-an-Active-DNS-to-Point-to-a-Raspberry-P/)
+    * [How to Setup WordPress on the Raspberry Pi](https://pimylifeup.com/raspberry-pi-wordpress/)
 
 - _Hats_
     * [pHAT Stack Configurator](https://pinout.xyz/phatstack)
     * [PiDRIVE Raspberry Pi HAT 1541 1581 Commodore 64 128 Vic-20 Emulator OLED Pi1541](https://commodore4ever.net/products/pidrive-raspberry-pi-hat-1541-1581-commodore-64-128-vic-20-emulator-oled-pi1541)
 
+- _DNS-Routing_
+    * [Raspberry Pi DNS Settings: How to Change the DNS](https://pimylifeup.com/raspberry-pi-dns-settings/)
 
 ---
 

@@ -59,6 +59,7 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
     * [Pi Hole Ad Detection Display with PiTFT](https://learn.adafruit.com/pi-hole-ad-pitft-tft-detection-display)
     * [Turning your Raspberry PI Zero into a USB Gadget](https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/overview)
     * [RPi zero Support for USB Gadget Mode](https://github.com/raspberrypi/linux/issues/1212)
+    * [Access the Raspberry Pi via USB and SSH (OTG)](https://donnikitos.com/access-the-raspberry-pi-via-usb-and-ssh-otg/)
     * [Mopidy is an extensible music server written in Python.](https://mopidy.com)
     * [Mopidy-MusicBox-Webclient](https://github.com/pimusicbox/mopidy-musicbox-webclient)
     * [Pi MusicBox](https://www.pimusicbox.com)

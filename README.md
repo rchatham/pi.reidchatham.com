@@ -74,6 +74,7 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
 - _Hats_
     * [pHAT Stack Configurator](https://pinout.xyz/phatstack)
     * [PiDRIVE Raspberry Pi HAT 1541 1581 Commodore 64 128 Vic-20 Emulator OLED Pi1541](https://commodore4ever.net/products/pidrive-raspberry-pi-hat-1541-1581-commodore-64-128-vic-20-emulator-oled-pi1541)
+    * [Zero4U | 4-Port USB Hub for Raspberry Pi Zero](http://www.uugear.com/doc/Zero4U_UserManual.pdf)
 
 - _DNS-Routing_
     * [Raspberry Pi DNS Settings: How to Change the DNS](https://pimylifeup.com/raspberry-pi-dns-settings/)

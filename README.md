@@ -57,6 +57,7 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
     * [Onion Pi Setup Script](https://raw.githubusercontent.com/breadtk/onion_pi/master/setup.sh)
     * [Setting up a Raspberry Pi as a WiFi access point](https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point/install-software)
     * [Setting up a Raspberry Pi as a Wireless Access Point](https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md)
+    * [Use Raspberry Pi 3 As Router](https://www.instructables.com/id/Use-Raspberry-Pi-3-As-Router/)
     * [Raspberry Pi as an Ad Blocking Access Point](https://learn.adafruit.com/raspberry-pi-as-an-ad-blocking-access-point/overview)
     * [Pi-hole](https://pi-hole.net)
     * [Pi Hole Ad Detection Display with PiTFT](https://learn.adafruit.com/pi-hole-ad-pitft-tft-detection-display)

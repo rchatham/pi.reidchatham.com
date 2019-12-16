@@ -71,6 +71,7 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
     * [Setting Up an Active DNS to Point to a Raspberry Pi 2 With a Web Server on It](https://www.instructables.com/id/Setting-Up-an-Active-DNS-to-Point-to-a-Raspberry-P/)
     * [How to Setup WordPress on the Raspberry Pi](https://pimylifeup.com/raspberry-pi-wordpress/)
     * [Install Mysterium node as a package](https://help.mysterium.network/en/articles/3415007-install-mysterium-node-as-a-package)
+    * [Things Network Raspberry Pi Setup](https://learn.adafruit.com/raspberry-pi-single-channel-lorawan-gateway/raspberry-pi-setup)
 
 - _Hats_
     * [pHAT Stack Configurator](https://pinout.xyz/phatstack)

@@ -23,6 +23,8 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
 - _Find Pi's IP address_
 [IP Address - Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/remote-access/ip-address.md)
 
+ * Type `nmap -sn 192.168.1.0/24` into the terminal.
+ 
 - _SSH into pi_
 [SSH using Linux or Mac OS - Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md)
 

@@ -31,6 +31,7 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
 - _Using a Console Cable_
 [Adafruit's Raspberry Pi Lesson 5. Using a Console Cable](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable/overview)
 
+### Swift on Pi
 - _Get Swift on pi_
 [Set up Swift environment on Raspberry Pi (part 2/2) – Sharing the passion](https://swiftreviewer.com/2018/12/21/swift-programming-on-raspberry-pi-part-2-3/)
 [How To Install Swift – Swift-Arm](https://swift-arm.com/install-swift/)
@@ -43,7 +44,7 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
     * [DOCKER-MACHINE ON RASPBERRY PI](https://www.carothers.io/blog/docker-machine-on-raspberry-pi.html)
     * [How to setup a Docker Swarm cluster with Raspberry Pi's](https://blog.hypriot.com/post/how-to-setup-rpi-docker-swarm/)
 
-- _Other Links_
+### Other Links
     * [Connect your Docker client to a remote Docker host](https://www.kevinkuszyk.com/2016/11/28/connect-your-docker-client-to-a-remote-docker-host/)
     * [Controlling A Raspberry Pi From A Web Browser With Vapor 3](https://www.woolseyworkshop.com/2018/12/21/controlling-a-raspberry-pi-from-a-web-browser-with-vapor-3/)
     * [Creating a Custom Shrinked Raspberry Pi Image](https://www.instructables.com/id/Creating-a-Custom-Shrinked-Raspberry-Pi-Image/)
@@ -52,7 +53,7 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
     * [Read-Only Raspberry Pi](https://learn.adafruit.com/read-only-raspberry-pi)
     * [How to use dual boot on Raspberry Pi? (2 easy ways)](https://raspberrytips.com/raspberry-pi-dual-boot/)
 
-- _Project Ideas_
+### Project Ideas
     * [Turn your old speakers or Hi-Fi into Bluetooth receivers with a Raspberry Pi and this step-by-step guide](https://www.balena.io/blog/turn-your-old-speakers-or-hi-fi-into-bluetooth-receivers-using-only-a-raspberry-pi/?utm_source=efp&utm_medium=etcher&utm_campaign=balena-sound&utm_content=v4)
     * [Portable Raspberry Pi 4 computer | Hackspace magazine #24](https://www.raspberrypi.org/blog/)
     * [Build your own NAS drive with Raspberry Pi](https://www.popsci.com/build-raspberry-pi-NAS-drive/)

@@ -45,6 +45,7 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
     * [How to setup a Docker Swarm cluster with Raspberry Pi's](https://blog.hypriot.com/post/how-to-setup-rpi-docker-swarm/)
 
 ### Other Links
+- _Common Use Case_
     * [Connect your Docker client to a remote Docker host](https://www.kevinkuszyk.com/2016/11/28/connect-your-docker-client-to-a-remote-docker-host/)
     * [Controlling A Raspberry Pi From A Web Browser With Vapor 3](https://www.woolseyworkshop.com/2018/12/21/controlling-a-raspberry-pi-from-a-web-browser-with-vapor-3/)
     * [Creating a Custom Shrinked Raspberry Pi Image](https://www.instructables.com/id/Creating-a-Custom-Shrinked-Raspberry-Pi-Image/)
@@ -53,7 +54,7 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
     * [Read-Only Raspberry Pi](https://learn.adafruit.com/read-only-raspberry-pi)
     * [How to use dual boot on Raspberry Pi? (2 easy ways)](https://raspberrytips.com/raspberry-pi-dual-boot/)
 
-### Project Ideas
+- _Project Ideas_
     * [Turn your old speakers or Hi-Fi into Bluetooth receivers with a Raspberry Pi and this step-by-step guide](https://www.balena.io/blog/turn-your-old-speakers-or-hi-fi-into-bluetooth-receivers-using-only-a-raspberry-pi/?utm_source=efp&utm_medium=etcher&utm_campaign=balena-sound&utm_content=v4)
     * [Portable Raspberry Pi 4 computer | Hackspace magazine #24](https://www.raspberrypi.org/blog/)
     * [Build your own NAS drive with Raspberry Pi](https://www.popsci.com/build-raspberry-pi-NAS-drive/)

@@ -4,7 +4,7 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
 
 **NOTE:** You can ssh into a raspberry pi on your wifi at `ssh pi@raspberrypi.local`.
 
-[Check your Pi-Hole!](http://192.168.1.61/admin/db_graph.php)
+[Check your Pi-Hole!](http://192.168.1.178/admin/db_graph.php)
 
 [Get paid for your extra internet bandwidth](https://my.mysterium.network/)
 

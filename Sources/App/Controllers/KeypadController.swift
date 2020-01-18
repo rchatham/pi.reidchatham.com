@@ -13,18 +13,21 @@ var keypadController: KeypadController?
 class KeypadController {
 
     var enteredValues: String = ""
-    let keypad: Keypad
+    var keypad: Keypad
 
     init() {
         keypad = Keypad()
-        keypad.buttonPressed = { button in
-            // do something with button response
-            print(button.rawValue)
-            self.enteredValues.append(button.rawValue)
-        }
-        keypad.receiverPositionChanged = { position in
-            print("Receiver engaged: \(!position)")
-        }
+//        keypad.buttonPressed = { button in
+//            // do something with button response
+//            print("Button pressed: \(button.rawValue)")
+//            self.enteredValues.append(button.rawValue)
+//        }
+//        keypad.receiverPositionChanged = { position in
+//            print("Receiver engaged: \(!position)")
+//        }
     }
 
+    deinit {
+
+    }
 }

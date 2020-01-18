@@ -8,7 +8,9 @@ let package = Package(
     ],
     dependencies: [
         // SwiftyGPIO
-        .package(url: "https://github.com/uraimo/SwiftyGPIO.git", from: "1.1.0"),
+        .package(url: "https://github.com/uraimo/SwiftyGPIO.git", from: "1.1.4"),
+
+        .package(url: "https://github.com/yeokm1/SwiftSerial.git", from: "0.1.1"),
 
         // 💧 A server-side Swift web framework.
         .package(url: "https://github.com/vapor/vapor.git", from: "3.1.0"),
@@ -18,7 +20,7 @@ let package = Package(
 //        .package(url: "https://github.com/vapor/fluent-sqlite.git", from: "3.0.0")
     ],
     targets: [
-        .target(name: "App", dependencies: ["SwiftyGPIO", "Vapor", "Leaf" /*, "FluentSQLite"*/]),
+        .target(name: "App", dependencies: ["SwiftyGPIO", "Vapor", "Leaf", "SwiftSerial" /*, "FluentSQLite"*/]),
         .target(name: "Run", dependencies: ["App"]),
         .testTarget(name: "AppTests", dependencies: ["App"])
     ]

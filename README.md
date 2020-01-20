@@ -71,6 +71,7 @@ To run this on the raspberry pi first enable Swish, build the app to the pi with
     * [Access the Raspberry Pi via USB and SSH (OTG)](https://donnikitos.com/access-the-raspberry-pi-via-usb-and-ssh-otg/)
     * [Mopidy is an extensible music server written in Python.](https://mopidy.com)
     * [Mopidy-MusicBox-Webclient](https://github.com/pimusicbox/mopidy-musicbox-webclient)
+    * [Docker Mopidy](https://github.com/wernight/docker-mopidy)
     * [Pi MusicBox](https://www.pimusicbox.com)
     * [Create a Lightweight Raspberry Pi System with Raspbian Lite](https://thisdavej.com/create-a-lightweight-raspberry-pi-system-with-raspbian-lite/)
     * [Hey Siri, Open My Garage Door](https://pfandrade.me/blog/hey-siri-open-my-garage-door/)
